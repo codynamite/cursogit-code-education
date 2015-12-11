@@ -9,6 +9,6 @@ Para concluir eu sagui os seguintes passos:
 5. Escrever Markdown e Salvar arquivo
 6. 'git init
 7. 'git add README.md'
-8. 'git commit -m "first commit"'
+8. 'git commit -m "Adicionando README.md"'
 9. 'git remote add origin https://github.com/pedrocoelhonf/cursogit-code-education.git'
 10. 'git push -u origin master'
