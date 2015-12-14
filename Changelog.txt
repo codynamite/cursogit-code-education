@@ -1,0 +1,5 @@
+v0.1.0
+Primeira Fase do Projeto
+v0.1.1
+Segunda Fase do Projeto
+-adicionado Changelog.txt
